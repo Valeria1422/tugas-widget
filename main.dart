@@ -1,3 +1,4 @@
+
 import 'package:flutter/material.dart';
 
 void main() {
@@ -11,7 +12,7 @@ class MyApp extends StatelessWidget {
       title: 'Widget Sederhana',
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Contoh Widget Flutter'),
+          title: Text('Widget'),
         ),
 
         body: Center(
@@ -21,7 +22,7 @@ class MyApp extends StatelessWidget {
 
               // 1. Text Widget
               Text(
-                'Halo Flutter',
+                'Halo Valeria',
                 style: TextStyle(fontSize: 24),
               ),
 
